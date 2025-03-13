@@ -161,6 +161,8 @@ For additional details, please refer to the blog post [Hello DCO, Goodbye CLA: S
 ## License
 
 The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
-"Changes from branch2" 
-"More changes from branch2" 
-"Final changes from branch2" 
+
+"Changes from branch1" 
+"More changes from branch1" 
+"Final changes from branch1" 
+
